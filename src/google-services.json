@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "225618170968",
+    "firebase_url": "https://scrumpoker-c1269.firebaseio.com",
+    "project_id": "scrumpoker-c1269",
+    "storage_bucket": "scrumpoker-c1269.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225618170968:android:b77b3cde623af02716e62d",
+        "android_client_info": {
+          "package_name": "com.example.planningpoker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225618170968-f7gvchipr9pd3qchmvp8mr25sh47jidm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBujtpyNh8tCyQBicfch9BG1hH6lt15DKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225618170968-f7gvchipr9pd3qchmvp8mr25sh47jidm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

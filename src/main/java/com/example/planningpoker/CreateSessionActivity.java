@@ -6,13 +6,16 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class CreateSessionActivity extends AppCompatActivity {
+import com.google.firebase.analytics.FirebaseAnalytics;
 
+public class CreateSessionActivity extends AppCompatActivity {
+    private FirebaseAnalytics mFirebaseAnalytics;
     Button createSessionButton,joinSessionButton,showHistroyButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
         setContentView(R.layout.activity_create);
         init();
         creatsession();
