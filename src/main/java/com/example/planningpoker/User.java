@@ -6,6 +6,11 @@ public class User {
     private String userName;
     private String userAnswer;
 
+    public User(int userId, String userName) {
+        this.userId = userId;
+        this.userName = userName;
+    }
+
     @Override
     public String toString() {
         return "User{" +
