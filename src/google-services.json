@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "225618170968",
-    "firebase_url": "https://scrumpoker-c1269.firebaseio.com",
-    "project_id": "scrumpoker-c1269",
-    "storage_bucket": "scrumpoker-c1269.appspot.com"
+    "project_number": "958817053264",
+    "firebase_url": "https://planningpoker-80b1b.firebaseio.com",
+    "project_id": "planningpoker-80b1b",
+    "storage_bucket": "planningpoker-80b1b.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:225618170968:android:b77b3cde623af02716e62d",
+        "mobilesdk_app_id": "1:958817053264:android:c04b91584ea8777722ff55",
         "android_client_info": {
           "package_name": "com.example.planningpoker"
         }
       },
       "oauth_client": [
         {
-          "client_id": "225618170968-f7gvchipr9pd3qchmvp8mr25sh47jidm.apps.googleusercontent.com",
+          "client_id": "958817053264-lp9r8fcvvsrtqp4bj3co8k3fo6f1bp9q.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBujtpyNh8tCyQBicfch9BG1hH6lt15DKM"
+          "current_key": "AIzaSyD13l8PR6pe8O-YEIE0Hm23n1m84ht8XkU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "225618170968-f7gvchipr9pd3qchmvp8mr25sh47jidm.apps.googleusercontent.com",
+              "client_id": "958817053264-lp9r8fcvvsrtqp4bj3co8k3fo6f1bp9q.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

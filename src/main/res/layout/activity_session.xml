@@ -44,6 +44,18 @@
             android:textSize="24sp"
             android:textStyle="bold" />
 
+        <EditText
+            android:id="@+id/sessionyoutNameEdittext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="Your Name"
+            android:textColor="#E6C8C8"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
         <Switch
             android:id="@+id/privateswitchbutton"
             android:layout_width="130dp"

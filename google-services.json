@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "958817053264-qnd2p740ho0ctuea8vm66e1tnoqge39o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.planningpoker",
+            "certificate_hash": "5f314986504f86df7e4aaf574aedab753b186220"
+          }
+        },
+        {
           "client_id": "958817053264-lp9r8fcvvsrtqp4bj3co8k3fo6f1bp9q.apps.googleusercontent.com",
           "client_type": 3
         }
